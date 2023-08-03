@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.box {
+  width: 100px;
+  height: 100px;
+  font-size: 2rem;
+  border: 3px solid;
+  border-radius: 10%;
+  text-align: center;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.grid {
+  margin: auto;
+  margin-top: 50px;
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+}
